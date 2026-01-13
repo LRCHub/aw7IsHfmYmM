@@ -1,0 +1,87 @@
+# Fatboy Slim – Weapon of Choice
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Don't be shocked by the tone of
+my voice
+Check out my new weapon, weapon
+of choice
+Don't be shocked by the tone of
+my voice
+It's the new weapon, weapon of
+choice
+You can go with this,
+Or you can go with that,
+You can go with this,
+Or you can go with that,
+You can go with this,
+Or you can go with that,
+Or you can throw with
+You can go with this,
+Or you can go with that,
+You can go with this,
+Or you can go with that,
+Or you can throw with
+Walk without rhythm
+it won't attrack the worm
+Walk without rhythm
+and it won't attrack the worm
+Walk without rhythm
+and it won't attrack the worm
+If you walk without rhythm
+ah, you never learn
+Don't be shocked by the tone of
+my voice
+Check out my new weapon, weapon
+of choice
+Don't be shocked by the tone of
+my voice
+Check out my new weapon, weapon
+of choice
+Be careful, we don't know them
+Be careful, we don't know them
+Be careful, we don't know them
+Be careful, we don't know them
+You can go with this,
+Or you can go with that,
+You can go with this,
+Or you can go with that,
+You can go with this,
+Or you can go with that,
+Or you can throw with
+You can go with this,
+Or you can go with that,
+You can go with this,
+Or you can go with that,
+Or you can throw with
+Organically grown, through the
+hemisphere I roam
+Too big love to the angels of
+light
+Yeah, and my girl
+She just don't understand
+is gone beyond being a man
+As I drift off into the night,
+I'm in flight
+She's a Boy scout no doubt
+but I'm going to hold my cool,
+because of easy rules
+Yeah, so move on baby, yeah
+Halfway between the gutter and
+the stars, yeah
+Halfway between the gutter and
+the stars, yeah
+You can go with this,
+Or you can go with that,
+You can go with this,
+Or you can go with that,
+You can go with this,
+Or you can go with that,
+Or you can throw with
+You can go with this,
+Or you can go with that,
+You can go with this,
+Or you can go with that,
+Or you can throw with
+```
