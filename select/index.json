@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Weapon of Choice",
+  "base_artist": "Fatboy Slim",
+  "createdAt": "2026-01-13T18:29:38.600659Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Weapon of Choice",
+      "artist": "Black Rebel Motorcycle Club",
+      "has_synced": true,
+      "path": "select/01_Weapon_of_Choice_Black_Rebel_Motorcycle_Club.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Weapon of Choice",
+      "artist": "Tokyo Rose",
+      "has_synced": false,
+      "path": "select/02_Weapon_of_Choice_Tokyo_Rose.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Weapon of Choice - Junkie XL Mix",
+      "artist": "Fatboy Slim",
+      "has_synced": false,
+      "path": "select/03_Weapon_of_Choice_-_Junkie_XL_Mix_Fatboy_Slim.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Weapon Of Choice (Junkie XL Mix)",
+      "artist": "Fatboy Slim",
+      "has_synced": false,
+      "path": "select/04_Weapon_Of_Choice_(Junkie_XL_Mix)_Fatboy_Slim.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Weapon of Choice",
+      "artist": "Fatboy Slim feat. Bootsy Collins",
+      "has_synced": true,
+      "path": "select/05_Weapon_of_Choice_Fatboy_Slim_feat._Bootsy_Collins.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Weapon of Choice (Feat. Bootsy Collins)",
+      "artist": "Fatboy Slim",
+      "has_synced": true,
+      "path": "select/06_Weapon_of_Choice_(Feat._Bootsy_Collins)_Fatboy_Slim.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Weapon of Choice",
+      "artist": "Fatboy Slim",
+      "has_synced": true,
+      "path": "select/07_Weapon_of_Choice_Fatboy_Slim.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Weapon of Choice - Lazy Rich Remix",
+      "artist": "Fatboy Slim",
+      "has_synced": false,
+      "path": "select/08_Weapon_of_Choice_-_Lazy_Rich_Remix_Fatboy_Slim.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Weapon of Choice (Lazy Rich 2015 Remix)",
+      "artist": "Fatboy Slim",
+      "has_synced": false,
+      "path": "select/09_Weapon_of_Choice_(Lazy_Rich_2015_Remix)_Fatboy_Slim.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Weapon Of Choice",
+      "artist": "Fatboy Slim",
+      "has_synced": true,
+      "path": "select/10_Weapon_Of_Choice_Fatboy_Slim.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Weapon of Choice (Lazy Rich Remix)",
+      "artist": "Fatboy Slim",
+      "has_synced": false,
+      "path": "select/11_Weapon_of_Choice_(Lazy_Rich_Remix)_Fatboy_Slim.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Weapon of Choice",
+      "artist": "Fatboy Slim",
+      "has_synced": true,
+      "path": "select/12_Weapon_of_Choice_Fatboy_Slim.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Weapon of Choice (ft. Bootsy Collins)",
+      "artist": "Fatboy Slim",
+      "has_synced": true,
+      "path": "select/13_Weapon_of_Choice_(ft._Bootsy_Collins)_Fatboy_Slim.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Weapon Of Choice - Remastered Version",
+      "artist": "Fatboy Slim feat. Bootsy Collins",
+      "has_synced": true,
+      "path": "select/14_Weapon_Of_Choice_-_Remastered_Version_Fatboy_Slim_feat._Bootsy_Collins.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Weapon Of Choice (feat. Bootsy Collins) (Remastered Version)",
+      "artist": "Fatboy Slim",
+      "has_synced": true,
+      "path": "select/15_Weapon_Of_Choice_(feat._Bootsy_Collins)_(Remastered_Version)_Fatboy_Slim.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Weapon of Choice",
+      "artist": "Angelspit",
+      "has_synced": true,
+      "path": "select/16_Weapon_of_Choice_Angelspit.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Weapon of Choice (Demo)",
+      "artist": "The Classic Crime",
+      "has_synced": false,
+      "path": "select/17_Weapon_of_Choice_(Demo)_The_Classic_Crime.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Weapon of Choice",
+      "artist": "Fatboy Slim",
+      "has_synced": false,
+      "path": "select/pl_01_Weapon_of_Choice_Fatboy_Slim.txt"
+    }
+  ]
+}
